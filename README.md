@@ -1,1 +1,1 @@
-# Crreate a Dictionary in java/kotlin where we have to store words and its multiple meaning
+# Create a Dictionary in java where we have to store words and its multiple meaning
